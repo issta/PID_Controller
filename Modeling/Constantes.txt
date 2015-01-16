@@ -1,0 +1,23 @@
+Kp : 8.1203
+Ti : 2.6600
+Td : 0.6650
+
+P : 8.1203
+I : 3.0527
+
+:---------------------------------------------:
+PWM duty cycle compute
+1024 -> 100
+
+1024/100
+D : 5.4000
+
+: Hacer la simulacion de la planta con uso del PWM del microcontrolador, un programa que ponga el el PWM en 10% y luego en 50%, y se accione mediando un switch
+
+Kp : 6.5265
+Ti : 3.1000
+Td : 0.7750
+
+P : 6.5265
+I : 2.1053
+D : 5.0580

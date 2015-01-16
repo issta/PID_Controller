@@ -1,6 +1,9 @@
 # Folders
 Documentation/
 
+# Simulation Data
+*.DAT
+
 # Object files
 *.o
 *.ko
